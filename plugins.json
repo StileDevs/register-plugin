@@ -1,0 +1,12 @@
+{
+  "version": "0.0.0",
+  "plugins": {
+    "core": [
+      {
+        "name": "webserver-node",
+        "url": "https://github.com/StileDevs/webserver-node"
+      }
+    ],
+    "community": []
+  }
+}
